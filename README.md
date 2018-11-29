@@ -1,4 +1,4 @@
-<h1>Peloton Stats extract via JSON call, display on wordpress CMS</h1>
+<h1>Peloton Stats extract via JSON, display on wordpress CMS</h1>
 
 <p>Wrote a bit of code to pull data from Strava (via this great <a href="https://wordpress.org/plugins/json-content-importer/" target="_blank">JSON plugin</a> and then transform it to friendly metric types for my region.</p>
 
