@@ -4,6 +4,7 @@
 
 <h3>To replicate</h3>
 <ul>
+  <li>First and foremost, ensure your Peloton is automatically pushing ride stats to Strava after every ride. </li>
   <li>Sign up for a Strava Developer's account</li>
   <li>Register an app</li>
   <li>Find your athlete ID</li>
