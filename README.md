@@ -8,9 +8,16 @@
   <li>Sign up for a Strava Developer's account</li>
   <li>Register an app</li>
   <li>Find your athlete ID</li>
-  <li>Use the snippet code within one of the JSON content importer template tags, substitue in your athleteID and accessToken where templatized in my code</li>
+  <li>Use the snippet code within one of the JSON content importer template tags, substitute in your athleteID and accessToken where templatized in my code</li>
   <li>Place the Javascript within your footer.php file in your wordpress theme (needs to run after JSON completes in DOM load process)</li>
   <li>Use CSS to manipulate look and feel</li>
 </ul>
 
 <p>Enjoy</p>
+<hr>
+<p>Updated: December 30th, 2018</p>
+<ul>
+  <li>Added in weight module</li>
+  <li>Pulls from Strava, which is synced to streaming data from Fitbit smart scale</li>
+  <li>Transforms kgs to lbs, and caps decimal places at two</li>
+</ul>
